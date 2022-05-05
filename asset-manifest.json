@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e02697ea.css",
-    "main.js": "/static/js/main.cf512475.js",
+    "main.js": "/static/js/main.a77c9827.js",
     "static/js/787.1297335f.chunk.js": "/static/js/787.1297335f.chunk.js",
     "static/media/sistemaSolar.png": "/static/media/sistemaSolar.e67b151439b0f7775890.png",
     "static/media/InfoMoviesDB.png": "/static/media/InfoMoviesDB.903ab99e410d91e44e7c.png",
@@ -10,11 +10,11 @@
     "static/media/Cascadia.ttf": "/static/media/Cascadia.bd7ac0c7c5582313a197.ttf",
     "index.html": "/index.html",
     "main.e02697ea.css.map": "/static/css/main.e02697ea.css.map",
-    "main.cf512475.js.map": "/static/js/main.cf512475.js.map",
+    "main.a77c9827.js.map": "/static/js/main.a77c9827.js.map",
     "787.1297335f.chunk.js.map": "/static/js/787.1297335f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e02697ea.css",
-    "static/js/main.cf512475.js"
+    "static/js/main.a77c9827.js"
   ]
 }
